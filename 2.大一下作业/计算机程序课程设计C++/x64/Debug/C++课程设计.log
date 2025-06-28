@@ -1,0 +1,14 @@
+﻿  main.cpp
+  student.h
+  manage.cpp
+D:\A重要资料\10、结课作业\c++\C++课程设计\manage.cpp(221,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\A重要资料\10、结课作业\c++\C++课程设计\manage.cpp(252,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\A重要资料\10、结课作业\c++\C++课程设计\manage.cpp(305,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\A重要资料\10、结课作业\c++\C++课程设计\manage.cpp(341,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\A重要资料\10、结课作业\c++\C++课程设计\manage.cpp(405,33): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  正在生成代码...
+  C++课程设计.vcxproj -> D:\A重要资料\10、结课作业\c++\C++课程设计\x64\Debug\C++课程设计.exe
